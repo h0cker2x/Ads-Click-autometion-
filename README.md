@@ -1,10 +1,4 @@
-Haan, README.md में build process है, लेकिन वह **basic** है। 
 
-Mैंने जो README.md दिया था वो सिर्फ Android Studio का method बताता है।
-
-**अब मैं एक COMPLETE README.md दे रहा हूँ जिसमें सभी methods हैं:**
-
-```markdown
 # 🤖 Ads Click Automation App
 
 Complete automation tool for clicking ads and elements on websites. This app uses React Native to automate browser interactions with customizable selectors.
